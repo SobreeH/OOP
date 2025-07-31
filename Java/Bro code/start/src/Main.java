@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) throws Exception {
-        System.out.println("I like pizza!");
-        System.out.println("It's really good!");
+        System.out.print("I like pizza!\n");
+        System.out.print("It's really good!");
     }
 }
