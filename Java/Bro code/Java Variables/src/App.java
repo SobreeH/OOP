@@ -7,5 +7,8 @@ public class App {
         double price = 19.99;
         double gpa = 3.5;
         double temperature = -12.5;
+
+        System.out.println(price);
+        
     }
 }
